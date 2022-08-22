@@ -1,0 +1,13 @@
+<div class="title">
+	<div class="text">Pay</div>
+</div>
+<div class="form-content">
+	<input type="number" id="card-number" placeholder="Card Number" onkeydown="checkKey()">
+</div>
+<div class="form-content">
+	<input type="number" id="pin" placeholder="PIN" onkeydown="checkKey()">
+</div>
+<div class="big-text">£ 20.00</div>
+<div class="button">
+	<button onclick="pay()">Pay</button>
+</div>

@@ -1,0 +1,3 @@
+<div class="button">
+	<button onclick="checkOut()">Check Out</button>
+</div>
